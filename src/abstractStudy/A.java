@@ -16,6 +16,11 @@ public abstract class A {
 
    // public static void show3();
 
+    public abstract  void show3();
+
+    public abstract void show4();
+
+
 
 
 
